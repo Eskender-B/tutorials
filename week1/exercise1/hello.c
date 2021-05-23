@@ -1,6 +1,6 @@
 // TODO 1: Add unistd.h header for read()/write()
 //	- #include <unistd.h>
-
+#include <unistd.h>
 
 void myScanLine(char* line){
 	size_t sz;
@@ -15,7 +15,7 @@ void myScanLine(char* line){
 			- standard input has a file descriptor of 0
 			- size_t read (int fd, void* buf, size_t cnt);
 		*/
-
+		sz = read(0, buff, 100);
 
 		for (int i = 0; i < sz; ++i)
 		{
@@ -41,7 +41,7 @@ void myPrintLine(char* string){
 		- size_t write (int fd, void* buf, size_t cnt);
 
 	*/
-
+	write(1, buff, cnt);
 
 }
 
