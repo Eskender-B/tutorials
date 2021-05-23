@@ -1,5 +1,6 @@
 // TODO 1: Add stdio library
 //	- #include <stdio.h>
+#include <stdio.h>
 
 
 
@@ -14,6 +15,10 @@ int main(int argc, char const *argv[])
 		- printf("Hello %s\n", name);
 	*/
 
+	char name[10];
+	printf("Name: ");
+	scanf("%s", name);
+	printf("Hello %s\n", name);
 
 	return 0;
 }
