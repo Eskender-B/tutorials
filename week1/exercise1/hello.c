@@ -1,6 +1,7 @@
 // TODO 1: Add unistd.h header for read()/write()
 //	- #include <unistd.h>
 #include <unistd.h>
+#include <stdlib.h> // for exit()
 
 void myScanLine(char* line){
 	size_t sz;
@@ -28,7 +29,7 @@ void myScanLine(char* line){
 }
 
 void myPrintLine(char* string){
-	size_t cnt = 0;
+	size_t sz, cnt = 0;
 	char buff[100];
 	while(string[cnt] != '\0'){
 		buff[cnt] = string[cnt];
@@ -41,7 +42,8 @@ void myPrintLine(char* string){
 		- size_t write (int fd, void* buf, size_t cnt);
 
 	*/
-	write(1, buff, cnt);
+	sz = write(1, buff, cnt);
+	if(sz!=cnt) exit(1); // Error
 
 }
 
