@@ -1,9 +1,18 @@
-#include <stdio.h>		// for printf()
+#include <stdio.h>		// for printf(), fopen(), fclose(), fwrite(), fread(), fseek(), ftell(), fputs(), fgets()
 #include <stdlib.h>		// for getenv()
 #include <string.h>		// for strlen()
 #include <stdlib.h>		// for exit(), malloc(), free()
 
+
+// Uninitialized data segement
+char* buffer_global[1024]; 
+
+// Initialized data segment
+char message[] = "This program demonstrates arguments, environment variables, File I/O and porcess memory layout\n"; 
+
 int main (int argc, char *argv[]){
+
+	printf("%s\n", message);
 
 	/*
 	Arguments and Environment variables
