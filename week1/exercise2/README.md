@@ -4,6 +4,7 @@
 ## Exercise2_1
 * Creating static and shared libraries
 ** Make a static linking and run
+	- ```gcc -c myLib.c ```
 	- ```gcc calc.c myLib.o -o calc```
 	- ```./calc```
 ** Or Make a dynamic linking and run
