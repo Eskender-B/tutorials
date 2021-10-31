@@ -3,11 +3,11 @@
 
 ## Exercise2_1
 * Creating static and shared libraries
-** Make a static linking and run
+** Make a static linking and run **
 	- ```gcc -c myLib.c ```
 	- ```gcc calc.c myLib.o -o calc```
 	- ```./calc```
-** Or Make a dynamic linking and run
+** Or Make a dynamic linking and run **
 	- ```gcc -shared myLib.o -o libmyLib.so```
 	- ```gcc calc.c libmyLib.so -o calc```
 	- ```./calc``` (doesn't work)
