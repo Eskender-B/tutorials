@@ -30,6 +30,7 @@ for i, link in enumerate(state_links):
 
     table = soup.find_all('table', attrs={'class': 'table table-hover'})[0]
     univ_links = table.find('tbody').find_all('a')
+    univ_links = univ_links[0:-1]      # don't consider last entry as it is not univ name
     universities.extend([u.string for u in univ_links])
 
 

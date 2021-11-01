@@ -26,13 +26,11 @@ Miles College
 Judson College
 Heritage Christian University
 Stillman College
-Add University
 University of Alaska Fairbanks
 Alaska Pacific University
 University of Alaska Southeast
 University of Alaska Anchorage
 Alaska Bible College
-Add University
 Arizona State University
 The University of Arizona
 Northern Arizona University
@@ -41,7 +39,6 @@ Prescott College
 University of Advancing Technology
 Arizona Christian University
 The School of Architecture
-Add University
 University of Arkansas
 University of Arkansas at Little Rock
 Arkansas State University
@@ -65,7 +62,6 @@ Arkansas Baptist College
 Williams Baptist University
 Crowley's Ridge College
 Ecclesia College
-Add University
 Stanford University
 University of California, Berkeley
 University of California, Los Angeles
@@ -203,7 +199,6 @@ Bethesda University
 Irell and Manella Graduate School of Biological Sciences
 Antioch University Los Angeles
 Antioch University Santa Barbara
-Add University
 University of Colorado Boulder
 Colorado State University
 University of Denver
@@ -227,7 +222,6 @@ Rocky Mountain College of Art and Design
 Nazarene Bible College
 Rocky Vista University
 Denver College of Nursing
-Add University
 Yale University
 University of Connecticut
 Quinnipiac University
@@ -250,12 +244,10 @@ Goodwin University
 Mitchell College
 Albertus Magnus College
 Holy Apostles College and Seminary
-Add University
 University of Delaware
 Delaware State University
 Wilmington University
 Goldey-Beacom College
-Add University
 Georgetown University
 George Washington University
 American University
@@ -269,7 +261,6 @@ Trinity Washington University
 The Institute of World Politics
 University of the Potomac
 Pontifical Faculty of the Immaculate Conception
-Add University
 University of Florida
 Florida State University
 University of South Florida
@@ -334,7 +325,6 @@ Chipola College
 Trinity College of Florida
 Florida Gateway College
 The Baptist College of Florida
-Add University
 Georgia Institute of Technology
 University of Georgia
 Georgia State University
@@ -388,14 +378,12 @@ Point University
 Thomas University
 Emmanuel College, Georgia
 Beulah Heights University
-Add University
 University of Hawaii-West Oahu
 University of Hawaii at Manoa
 Hawaii Pacific University
 Brigham Young University-Hawaii
 Chaminade University of Honolulu
 University of Hawaii at Hilo
-Add University
 University of Idaho
 Boise State University
 Brigham Young University-Idaho
@@ -404,7 +392,6 @@ Northwest Nazarene University
 Lewis-Clark State College
 The College of Idaho
 Boise Bible College
-Add University
 University of Chicago
 University of Illinois at Urbana-Champaign
 Northwestern University
@@ -479,7 +466,6 @@ Methodist College
 Trinity College of Nursing & Health Sciences
 Saint Francis Medical Center College of Nursing
 Saint Anthony College of Nursing
-Add University
 Purdue University
 Indiana University Bloomington
 University of Notre Dame
@@ -524,7 +510,6 @@ Holy Cross College
 Indiana University Kokomo
 Martin University
 Indiana University Fort Wayne
-Add University
 Iowa State University
 University of Iowa
 University of Northern Iowa
@@ -558,7 +543,6 @@ Emmaus Bible College
 Mercy College of Health Sciences
 Iowa Wesleyan University
 Allen College
-Add University
 University of Kansas
 Kansas State University
 Wichita State University
@@ -585,7 +569,6 @@ Bethany College, Kansas
 Manhattan Christian College
 University of Saint Mary
 Donnelly College
-Add University
 University of Kentucky
 University of Louisville
 Western Kentucky University
@@ -614,7 +597,6 @@ Brescia University
 Union College, Kentucky
 Kentucky Christian University
 Clear Creek Baptist Bible College
-Add University
 Louisiana State University
 Tulane University
 Loyola University New Orleans
@@ -640,7 +622,6 @@ Louisiana State University Health Sciences Center-Shreveport
 Southern University Law Center
 University of Holy Cross
 Franciscan Missionaries of Our Lady University
-Add University
 The University of Maine
 Colby College
 Bowdoin College
@@ -659,7 +640,6 @@ Saint Joseph's College of Maine
 University of Maine at Presque Isle
 University of Maine at Fort Kent
 University of Maine at Farmington
-Add University
 Johns Hopkins University
 University of Maryland
 University of Maryland, Baltimore County
@@ -688,7 +668,6 @@ Coppin State University
 University of Maryland Eastern Shore
 Maryland University of Integrative Health
 Washington Adventist University
-Add University
 Massachusetts Institute of Technology
 Harvard University
 Boston University
@@ -769,7 +748,6 @@ New England College of Optometry
 Westfield State University
 Labouré College
 Northpoint Bible College
-Add University
 University of Michigan
 Michigan State University
 Michigan Technological University
@@ -816,7 +794,6 @@ Kuyper College
 Grace Christian University
 Great Lakes Christian College
 Michigan School of Psychology
-Add University
 University of Minnesota-Twin Cities
 Carleton College
 Rasmussen College
@@ -852,7 +829,6 @@ North Central University
 Dunwoody College of Technology
 Bethany Lutheran College
 Oak Hills Christian College
-Add University
 Mississippi State University
 University of Mississippi
 University of Southern Mississippi
@@ -870,7 +846,6 @@ Alcorn State University
 Rust College
 Blue Mountain College
 Southeastern Baptist College
-Add University
 Washington University in St. Louis
 University of Missouri
 University of Missouri-Kansas City
@@ -921,7 +896,6 @@ Central Christian College of the Bible
 Baptist Bible College
 St. Louis Christian College
 Research College of Nursing
-Add University
 Montana State University
 The University of Montana
 Montana Tech
@@ -931,7 +905,6 @@ Rocky Mountain College
 Montana State University-Northern
 The University of Montana Western
 University of Providence
-Add University
 University of Nebraska-Lincoln
 Creighton University
 University of Nebraska at Omaha
@@ -953,7 +926,6 @@ Midland University
 Union College, Nebraska
 Nebraska Christian College
 Bryan College of Health Sciences
-Add University
 University of Nevada, Reno
 University of Nevada, Las Vegas
 College of Southern Nevada
@@ -962,7 +934,6 @@ Great Basin College
 Western Nevada College
 Roseman University of Health Sciences
 Nevada State College
-Add University
 Dartmouth College
 University of New Hampshire
 Southern New Hampshire University
@@ -977,7 +948,6 @@ Granite State College
 Thomas More College of Liberal Arts
 Magdalen College of the Liberal Arts
 Antioch University New England
-Add University
 Princeton University
 Rutgers, The State University of New Jersey
 New Jersey Institute of Technology
@@ -1004,7 +974,6 @@ Centenary University
 Felician University
 Saint Elizabeth University
 Pillar College
-Add University
 University of New Mexico
 New Mexico State University
 New Mexico Institute of Mining and Technology
@@ -1014,7 +983,6 @@ New Mexico Highlands University
 Northern New Mexico College
 University of the Southwest
 Southwestern College, Santa Fe
-Add University
 Cornell University
 Columbia University in the City of New York
 New York University
@@ -1165,7 +1133,6 @@ Plaza College
 Davis College
 Jamestown Business College
 Helene Fuld College of Nursing
-Add University
 University of North Carolina at Chapel Hill
 Duke University
 North Carolina State University
@@ -1219,7 +1186,6 @@ St Andrews University
 University of Mount Olive
 Mid-Atlantic Christian University
 Cabarrus College of Health Sciences
-Add University
 University of North Dakota
 North Dakota State University
 University of Mary
@@ -1230,7 +1196,6 @@ Bismarck State College
 University of Jamestown
 Mayville State University
 Trinity Bible College
-Add University
 The Ohio State University
 University of Cincinnati
 Case Western Reserve University
@@ -1301,7 +1266,6 @@ Tri-State Bible College
 Good Samaritan College of Nursing and Health Science
 Ohio University Southern
 Ohio University-Chillicothe
-Add University
 The University of Oklahoma
 Oklahoma State University
 The University of Tulsa
@@ -1326,7 +1290,6 @@ Northwestern Oklahoma State University
 Mid-America Christian University
 Bacone College
 Southwestern Christian University
-Add University
 Oregon State University
 University of Oregon
 Portland State University
@@ -1349,7 +1312,6 @@ Multnomah University
 University of Western States
 Bushnell University
 New Hope Christian College
-Add University
 University of Pennsylvania
 Penn State University
 Carnegie Mellon University
@@ -1457,7 +1419,6 @@ Gratz College
 Pennsylvania College of Health Sciences
 WON Institute of Graduate Studies
 Geisinger Commonwealth School of Medicine
-Add University
 Brown University
 University of Rhode Island
 Rhode Island School of Design
@@ -1468,7 +1429,6 @@ Roger Williams University
 Providence College
 Salve Regina University
 New England Institute of Technology
-Add University
 Clemson University
 University of South Carolina
 Medical University of South Carolina
@@ -1502,7 +1462,6 @@ Southern Wesleyan University
 Coker University
 Morris College
 Allen University
-Add University
 University of South Dakota
 South Dakota State University
 South Dakota School of Mines and Technology
@@ -1515,7 +1474,6 @@ University of Sioux Falls
 Dakota Wesleyan University
 Mount Marty University
 Presentation College
-Add University
 Vanderbilt University
 The University of Tennessee, Knoxville
 The University of Tennessee at Martin
@@ -1563,7 +1521,6 @@ Tennessee Wesleyan University
 Welch College
 Middle Tennessee School of Anesthesia
 Richmont Graduate University
-Add University
 The University of Texas at Austin
 Texas A&M University
 William Marsh Rice University
@@ -1655,7 +1612,6 @@ The King's University
 Wade College
 Arlington Baptist University
 Paul Quinn College
-Add University
 The University of Utah
 Brigham Young University
 Utah State University
@@ -1666,7 +1622,6 @@ Dixie State University
 Westminster College
 Snow College
 Rocky Mountain University of Health Professions
-Add University
 University of Vermont
 Middlebury College
 Champlain College
@@ -1682,7 +1637,6 @@ Vermont Technical College
 Sterling College, Vermont
 Landmark College
 Vermont College of Fine Arts
-Add University
 University of Virginia
 Virginia Polytechnic Institute and State University
 George Mason University
@@ -1725,7 +1679,6 @@ Virginia Wesleyan University
 Emory & Henry College
 The University of Virginia's College at Wise
 Appalachian College of Pharmacy
-Add University
 University of Washington
 Washington State University
 Western Washington University
@@ -1752,7 +1705,6 @@ Heritage University
 Columbia Basin College
 Centralia College
 Antioch University Seattle
-Add University
 West Virginia University
 Marshall University
 Shepherd University
@@ -1773,7 +1725,6 @@ Salem University
 West Virginia School of Osteopathic Medicine
 Appalachian Bible College
 Ohio Valley University
-Add University
 University of Wisconsin-Madison
 University of Wisconsin-Milwaukee
 Marquette University
@@ -1811,4 +1762,3 @@ Marian University, Wisconsin
 Maranatha Baptist University
 Bellin College
 Wisconsin School of Professional Psychology
-Add University
